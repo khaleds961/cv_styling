@@ -28,8 +28,8 @@ h4{
 }
 .experience-date , .experience-location{
     color: #9B9B9B;
-    margin-left: 10px;
-    
+    margin-left: 10px; 
+     
 }
 .skills.skills-primary::before{
     content: "Main";
