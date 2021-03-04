@@ -355,17 +355,19 @@ display: none;}
     margin-right: 30px;
 
 }
+
 .contact-facebook{
     background-image: url(../images/facebook.png);
     background-color: #cccccc;
     height: 100px;
     width: 100px;
     background-position: center;
-    background-repeat: no-repeat; /* Do not repeat the image */
+    background-repeat: no-repeat; 
     background-size: cover;
     margin-right: 30px;
 
 }
+
 
 .contact-skype{
     display: none;
@@ -373,5 +375,6 @@ display: none;}
 
     .contact-type,.contact-value{
         display: none;
-    }
+    
+}
 }
